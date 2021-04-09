@@ -1,14 +1,18 @@
-![](images/programonaut.png)
+![programonaut banner](images/programonaut.png)
 
 **Languages:** `.c`, `.cs`, `.py`, `.js`, `.dart`
 
 **Fields:**
 
-:video_game: Games<br/>
-:phone: Mobile<br/>
-:computer: Full-Stack Web<br/>
-:house: IoT and Automation<br/>
-:desktop_computer: Other Software...
+🎮 Games<br/>
+☎️ Mobile<br/>
+💻 Full-Stack Web<br/>
+🏠 IoT and Automation<br/>
+🖥️ Other Software...
 
+**Projects**  
+🏐 [Bralls](https://play.google.com/store/apps/details?id=com.Deved.Bralls)  
+🎵 [Artist to playlist](https://playlist.deved.tech/)  
 
-**Projects**
+Check out my [**Website**](https://deved.tech)!  
+Contact me via **mail@programonaut.de** or **mail@maximilian-kuerschner.de**
