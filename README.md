@@ -9,7 +9,7 @@
 🏠 IoT and Automation<br/>
 🖥️ Other Software...
 
-**Projects**  
+**Projects:**  
 🏐 [Bralls](https://play.google.com/store/apps/details?id=com.Deved.Bralls)  
 🎵 [Artist to playlist](https://playlist.deved.tech/)  
 
