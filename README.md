@@ -4,11 +4,11 @@
 
 **Fields:**
 
-    :video_game: Games
-    :phone: Mobile
-    :computer: Full-Stack Web
-    :house: IoT and Automation
-    :desktop_computer: Other Software...
+:video_game: Games<br/>
+:phone: Mobile<br/>
+:computer: Full-Stack Web<br/>
+:house: IoT and Automation<br/>
+:desktop_computer: Other Software...
 
 
-## Projects
+**Projects**
