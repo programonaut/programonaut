@@ -2,8 +2,7 @@
 
 **Languages:** `.c`, `.cs`, `.py`, `.js`, `.dart`
 
-**Fields:**
-
+**Fields:**  
 🎮 Games<br/>
 ☎️ Mobile<br/>
 💻 Full-Stack Web<br/>
