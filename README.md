@@ -11,7 +11,7 @@
 
 **Projects:**  
 🏐 [Bralls](https://play.google.com/store/apps/details?id=com.Deved.Bralls)  
-🎵 [Artist to playlist](https://playlist.deved.tech/)  
+🎵 [Artist to playlist](https://playlist.programonaut.com/)  
 
-Check out my [**Website**](https://deved.tech)!  
+Check out my [**Website**](https://programonaut.com)!  
 Contact me via **mail@programonaut.de** or **mail@maximilian-kuerschner.de**
