@@ -14,4 +14,4 @@
 🎵 [Artist to playlist](https://playlist.programonaut.com/)  
 
 Check out my [**Website**](https://programonaut.com)!  
-Contact me via **mail@programonaut.de** or **mail@maximilian-kuerschner.de**
+Contact me via **mail@programonaut.com** or **mail@maximilian-kuerschner.de**
