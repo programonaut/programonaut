@@ -3,10 +3,10 @@
 **Languages:** `.c`, `.cs`, `.py`, `.js`, `.dart`
 
 **Fields:**  
-🎮 Games <br>
-☎️ Mobile <br>
-💻 Full-Stack Web <br>
-🏠 IoT and Automation <br>
+🎮 Games  
+☎️ Mobile  
+💻 Full-Stack Web  
+🏠 IoT and Automation  
 🖥️ Other Software...
 
 **Projects:**  
