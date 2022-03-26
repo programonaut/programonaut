@@ -14,4 +14,4 @@
 🧩 [Slide for Four](https://slide-for-four.de)  
 
 Check out my [**Website**](https://programonaut.com)!  
-Contact me via **mail@programonaut.com** or **mail@maximilian-kuerschner.de**
+Contact me via [**mail@programonaut.com**](mailto://mail@programonaut.com) or [**mail@maximilian-kuerschner.de**](mailto://mail@maximilian-kuerschner.de)
